@@ -1,186 +1,234 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050816,50:071B35,100:00F0FF&text=NEVUCORE&fontColor=FFFFFF&fontSize=65&fontAlignY=38&desc=ENGINEERING%20DIGITAL%20REALITIES&descAlignY=58&descSize=16&animation=fadeIn" width="100%"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:050816,40:0A1930,100:00D9FF&text=NEVUCORE&fontColor=FFFFFF&fontSize=68&fontAlignY=40&desc=GAME%20DEVELOPMENT%20%7C%20WEB%20ENGINEERING&descSize=15&descAlignY=60&animation=fadeIn"/>
 
 <br/>
 
-# `zOmbix0ploit`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=21&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&lines=Game+Developer+%7C+Web+Developer;Founder+of+NevuCore+Dev+Studio;Building+Interactive+Digital+Worlds;Engineering+Beyond+Imagination"/>
 
-### GAME DEVELOPER • WEB DEVELOPER • FOUNDER
+<br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&width=650&lines=Building+Worlds+Beyond+Reality.;Engineering+Interactive+Experiences.;Founder+of+NevuCore+Dev+Studio.;Turning+Ideas+Into+Digital+Reality." />
+<a href="https://github.com/zOmbix0ploit">
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
+<a href="mailto:nevucore@gmail.com">
+<img src="https://img.shields.io/badge/CONTACT-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
+</a>
+<a href="https://discord.gg/fa9Azc9nHd">
+<img src="https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=00E5FF"/>
+</a>
 
-<br/>
+<br/><br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-zOmbix0ploit-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF)](https://github.com/zOmbix0ploit)
-[![Studio](https://img.shields.io/badge/Studio-NevuCore-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F0FF)](https://github.com/zOmbix0ploit)
-[![Location](https://img.shields.io/badge/Location-Sri%20Lanka-0D1117?style=for-the-badge&logo=googlemaps&logoColor=00F0FF)](https://github.com/zOmbix0ploit)
-
-<br/>
-
-**I build games, digital experiences, and software that bring imagination to life.**
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=zOmbix0ploit&style=for-the-badge&color=00F0FF&label=PROFILE+VISITORS"/>
+<img src="https://komarev.com/ghpvc/?username=zOmbix0ploit&style=flat-square&color=00D9FF&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## `01 / ABOUT ME`
+<h2 align="left">
+<img src="https://img.shields.io/badge/01-00E5FF?style=flat-square"/> &nbsp; ABOUT
+</h2>
 
 ```yaml
-IDENTITY:
-  Name: zOmbix0ploit
-  Studio: NevuCore Dev Studio
-  Role: Indie Game Developer & Web Developer
-  Location: Sri Lanka 🇱🇰
+developer:
+  username: zOmbix0ploit
+  studio: NevuCore Dev Studio
+  location: Sri Lanka
 
-FOCUS:
+specialization:
   - Game Development
-  - Unreal Engine & Interactive Worlds
-  - Web Application Development
-  - Software Engineering
-  - AI-Assisted Development
+  - Web Engineering
+  - Interactive Experiences
+  - Software Development
+  - AI-Assisted Engineering
 
-PHILOSOPHY:
-  "Don't just imagine the future. Build it."
+currently_building:
+  - Cooperative Multiplayer Games
+  - Digital Products
+  - Modern Web Applications
 
-STATUS:
-  Currently: Building something extraordinary.
-  Availability: Open to interesting collaborations.
+mission: "Engineering the future through technology."
 ```
 
-I'm passionate about creating immersive game worlds, modern web applications, and innovative digital experiences.
+I am an independent developer focused on creating interactive experiences, immersive game worlds, and modern software.
 
-My main focus is combining technology, creativity, and engineering to transform ambitious ideas into real products.
+My interests lie at the intersection of engineering, creativity, and technology.
 
 ---
 
-## `02 / DEVELOPMENT DOMAINS`
-
-<div align="center">
+<h2 align="left">
+<img src="https://img.shields.io/badge/02-00E5FF?style=flat-square"/> &nbsp; DEVELOPMENT DOMAINS
+</h2>
 
 <table>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 🎮 GAME DEVELOPMENT
+<h3 align="center">
+<img src="https://cdn.simpleicons.org/unrealengine/00E5FF" width="22"/> GAME DEVELOPMENT
+</h3>
 
-Building immersive interactive worlds, gameplay systems, physics-based mechanics, and multiplayer experiences.
+<p align="center">
+Building interactive worlds, gameplay mechanics, physics systems and multiplayer experiences.
+</p>
 
-<img src="https://img.shields.io/badge/UNREAL_ENGINE-313131?style=flat-square&logo=unrealengine&logoColor=white"/>
-<img src="https://img.shields.io/badge/GODOT-478CBF?style=flat-square&logo=godotengine&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white"/>
-<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=unreal,unity,godot,cs,cpp&theme=dark"/>
+</p>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 🌐 WEB DEVELOPMENT
+<h3 align="center">
+<img src="https://cdn.simpleicons.org/react/00E5FF" width="22"/> WEB ENGINEERING
+</h3>
 
-Creating modern websites, responsive interfaces, interactive experiences, and web applications.
+<p align="center">
+Developing responsive websites, modern interfaces and full-stack web applications.
+</p>
 
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs&theme=dark"/>
+</p>
 
 </td>
 </tr>
 <tr>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 🤖 AI & AUTOMATION
+<h3 align="center">
+<img src="https://cdn.simpleicons.org/python/00E5FF" width="22"/> AI & AUTOMATION
+</h3>
 
-Exploring AI-assisted development, intelligent systems, and automation.
+<p align="center">
+Exploring intelligent systems, AI-assisted development and automation.
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/Google_AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,tensorflow,opencv&theme=dark"/>
+</p>
 
 </td>
-<td width="50%" align="center">
+<td width="50%" valign="top">
 
-### 📱 SOFTWARE DEVELOPMENT
+<h3 align="center">
+<img src="https://cdn.simpleicons.org/flutter/00E5FF" width="22"/> SOFTWARE DEVELOPMENT
+</h3>
 
-Developing practical software and cross-platform applications.
+<p align="center">
+Creating practical applications and cross-platform software.
+</p>
 
-<img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
-<img src="https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white"/>
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,dart,git,github,vscode&theme=dark"/>
+</p>
 
 </td>
 </tr>
 </table>
 
-</div>
-
 ---
 
-## `03 / CURRENT PROJECTS`
+<h2 align="left">
+<img src="https://img.shields.io/badge/03-00E5FF?style=flat-square"/> &nbsp; FEATURED PROJECTS
+</h2>
 
-### 🎮 Carry The Giant
-**Multiplayer Co-op Indie Game**
+<table>
+<tr>
+<td width="50%" valign="top">
 
-An adventure-driven cooperative game where players work together to transport a giant across dangerous environments.
+<h3>Carry The Giant</h3>
 
-- Physics-based gameplay.
-- Cooperative multiplayer mechanics.
-- Large-scale environments.
-- Interactive objects and challenges.
-- Unreal Engine 5.
+<img src="https://img.shields.io/badge/TYPE-MULTIPLAYER_GAME-00D9FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/ENGINE-UNREAL_ENGINE_5-313131?style=flat-square"/>
 
-### 🌐 NevuCore Dev Studio
-**Digital Experiences & Development**
+A cooperative adventure featuring physics-based gameplay, environmental challenges and large-scale exploration.
 
-An independent development studio focused on building modern digital products, interactive experiences, and innovative software.
+</td>
+<td width="50%" valign="top">
 
-### 📱 DocuFlow Reader
-**Android Application**
+<h3>NevuCore Dev Studio</h3>
+
+<img src="https://img.shields.io/badge/TYPE-DIGITAL_STUDIO-00D9FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/FOCUS-WEB_&_SOFTWARE-313131?style=flat-square"/>
+
+An independent development studio focused on modern digital experiences, software and interactive products.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>DocuFlow Reader</h3>
+
+<img src="https://img.shields.io/badge/TYPE-ANDROID_APPLICATION-00D9FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/FRAMEWORK-FLUTTER-02569B?style=flat-square"/>
 
 An offline document viewer and converter designed for a clean and practical reading experience.
 
+</td>
+<td width="50%" valign="top">
+
+<h3>Experimental Projects</h3>
+
+<img src="https://img.shields.io/badge/TYPE-RESEARCH_&_DEVELOPMENT-00D9FF?style=flat-square"/>
+
+Exploring game technologies, development tools, interactive systems and new software concepts.
+
+</td>
+</tr>
+</table>
+
 ---
 
-## `04 / TECHNOLOGY STACK`
+<h2 align="left">
+<img src="https://img.shields.io/badge/04-00E5FF?style=flat-square"/> &nbsp; TECHNOLOGY STACK
+</h2>
 
 <div align="center">
 
-### GAME ENGINEERING
+**GAME ENGINES & LANGUAGES**
 
-<img src="https://skillicons.dev/icons?i=unreal,unity,godot,cs,cpp" />
+<img src="https://skillicons.dev/icons?i=unreal,unity,godot,cs,cpp&theme=dark"/>
 
-### WEB ENGINEERING
+<br/><br/>
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs" />
+**FRONTEND & BACKEND**
 
-### SOFTWARE & DEVELOPMENT TOOLS
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs&theme=dark"/>
 
-<img src="https://skillicons.dev/icons?i=python,flutter,dart,git,github,vscode,blender,figma" />
+<br/><br/>
+
+**AI, SOFTWARE & TOOLS**
+
+<img src="https://skillicons.dev/icons?i=python,flutter,dart,git,github,vscode,blender,figma&theme=dark"/>
 
 </div>
 
 ---
 
-## `05 / GITHUB STATISTICS`
+<h2 align="left">
+<img src="https://img.shields.io/badge/05-00E5FF?style=flat-square"/> &nbsp; GITHUB ANALYTICS
+</h2>
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zOmbix0ploit&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=FFFFFF&include_all_commits=true"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=zOmbix0ploit&show_icons=true&hide_border=true&bg_color=080D18&title_color=00E5FF&icon_color=00E5FF&text_color=C9D1D9"/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zOmbix0ploit&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=FFFFFF"/>
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zOmbix0ploit&layout=compact&hide_border=true&bg_color=080D18&title_color=00E5FF&text_color=C9D1D9"/>
 
-<br/>
+<br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=zOmbix0ploit&theme=dark&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF"/>
+<img width="75%" src="https://streak-stats.demolab.com?user=zOmbix0ploit&hide_border=true&background=080D18&stroke=00E5FF&ring=00E5FF&fire=00E5FF&currStreakLabel=00E5FF&sideLabels=C9D1D9&currStreakNum=FFFFFF&sideNums=FFFFFF"/>
 
 </div>
 
 ---
 
-## `06 / CONTRIBUTION MATRIX`
+<h2 align="left">
+<img src="https://img.shields.io/badge/06-00E5FF?style=flat-square"/> &nbsp; CONTRIBUTION ACTIVITY
+</h2>
 
 <div align="center">
 
@@ -190,27 +238,27 @@ An offline document viewer and converter designed for a clean and practical read
 
 ---
 
-## `07 / CONNECT TO THE NETWORK`
+<h2 align="left">
+<img src="https://img.shields.io/badge/07-00E5FF?style=flat-square"/> &nbsp; CONNECT
+</h2>
 
 <div align="center">
 
 <a href="https://github.com/zOmbix0ploit">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-0D1117?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
 <a href="https://discord.gg/fa9Azc9nHd">
-<img src="https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
+<img src="https://img.shields.io/badge/DISCORD-0D1117?style=for-the-badge&logo=discord&logoColor=00E5FF"/>
 </a>
 
 <a href="mailto:nevucore@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=00E5FF"/>
 </a>
 
 <br/><br/>
 
-**Interested in game development, technology, or creative collaborations?**
-
-Let's build something extraordinary.
+**Open to interesting projects, collaborations and creative engineering.**
 
 </div>
 
@@ -218,12 +266,10 @@ Let's build something extraordinary.
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:071B35,100:050816&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,50:0A1930,100:050816&height=120&section=footer"/>
 
-### `NEVUCORE DEV STUDIO`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&duration=4000&pause=1500&color=00E5FF&center=true&vCenter=true&width=600&lines=NEVUCORE+DEV+STUDIO;ENGINEERING+BEYOND+LIMITS;BUILDING+THE+NEXT+DIGITAL+REALITY"/>
 
-**ENGINEERING THE FUTURE. BUILDING BEYOND REALITY.**
-
-`© 2026 NEVUCORE — ALL SYSTEMS OPERATIONAL`
+<sub>© 2026 NEVUCORE DEV STUDIO</sub>
 
 </div>
